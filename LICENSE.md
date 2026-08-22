@@ -9,5 +9,6 @@ This project is licensed under the Creative Commons Attribution-NonCommercial 4.
 ### Under the following terms:
 * **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
 * **NonCommercial** — You may NOT use the material for commercial purposes (selling the boards, selling pre-flashed chips, or using it in commercial vehicles).
-
+* 
 To view a copy of this license, visit http://creativecommons.org
+
