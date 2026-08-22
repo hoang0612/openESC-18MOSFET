@@ -49,4 +49,17 @@ Due to a lack of professional equipment, my tools consist of a cheap $2 solderin
 This is a **100% Non-Profit Open-Source Project** created to empower the global EV maker community. I am currently seeking hardware/tool sponsorships to manufacture the 4-layer PCB prototype and acquire a T12 soldering station, a digital multimeter, and testing equipment (72V battery / 3400W motor). 
 
 If you or your organization wish to support this project, please open an Issue or contact me directly through GitHub.<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f03384be-91ca-48b6-9fbc-74820f10be69" />
+# License
+
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
+
+### You are free to:
+* **Share** — copy and redistribute the material in any medium or format.
+* **Adapt** — remix, transform, and build upon the material.
+
+### Under the following terms:
+* **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+* **NonCommercial** — You may NOT use the material for commercial purposes (selling the boards, selling pre-flashed chips, or using it in commercial vehicles).
+
+To view a copy of this license, visit http://creativecommons.org
 
