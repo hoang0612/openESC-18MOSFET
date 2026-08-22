@@ -1,0 +1,10 @@
+### 🚀 Project Update: Bufalo BLDC Controller Hardware Design
+
+Spent a productive 4-hour session finalizing the critical low-voltage signal conditioning and filtering blocks. The control stage is shaping up beautifully:
+
+1. **Engineered Motor Hall Sensor Filtering:** Integrated dual-purpose RC low-pass filters paired with dedicated pull-up resistors tied to STM32F405 `PA0`, `PA1`, and `PA2` pins. This ensures glitch-free, synchronized rotor position tracking for the 120° QS Motor.
+2. **Designed Dual-Stage Throttle Conditioning:** Developed a coarse-to-fine RC filtering architecture directed into the 5V-tolerant ADC pin (`PA3`). This eliminates throttle deadbands and voltage ripples for ultra-smooth acceleration.
+3. **Imposed Localized Power Decoupling:** Added dedicated 100nF (104) ceramic decoupling capacitors directly at the 5V power rails of both the Hall and throttle connectors to intercept high-frequency switching noise from the power stage.
+4. **Advanced 3D Board Stacking:** Positioned the massive bulk capacitor bank and established the groundwork for 3D stripline shielding on Layer 3 to isolate the upcoming Gate Driver signals.
+
+*Next up:* Designing the high-voltage battery sensing voltage divider and the MOSFET gate drive circuitry.
