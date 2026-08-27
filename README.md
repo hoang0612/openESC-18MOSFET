@@ -1,6 +1,7 @@
 # openESC-18MOSFET
 an open-source 18mosfet ev controller developed by a 14year old hardware developer 
 # ⚡ Smart-ESC 18-Mosfet: High-Power Open-Source EV Controller
+SPECIAL THANK TO https://easyeda.com/ for sponsoring this project 
 
 A high-performance, intelligent, open-source 3-phase BLDC/FOC motor controller designed for electric vehicles. This project integrates automotive-grade power routing with advanced microcontroller logic, engineered completely from scratch under extreme budget constraints using salvaged components.
 
